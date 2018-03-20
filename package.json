@@ -4,7 +4,6 @@
   "description": "core class to create and add plugin in spinaldrive",
   "main": "index.js",
   "dependencies": {
-    "spinal-browser-admin": "git+https://github.com/spinalcom/spinal-browser-admin.git",
     "spinal-env-admin-panel-snapshots": "git+https://github.com/spinalcom/spinal-env-admin-panel-snapshots.git"
   },
   "devDependencies": {},
